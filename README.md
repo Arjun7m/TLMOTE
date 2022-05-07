@@ -1,4 +1,4 @@
-# TLMOTE: A Topic-based Language Modelling Approach for Text Oversampling
+## TLMOTE: A Topic-based Language Modelling Approach for Text Oversampling
 
 Training machine learning and deep learning models on unbalanced datasets can lead to a bias portrayed by the models towards the majority classes. To tackle the problem of bias towards majority classes, researchers have presented various techniques to oversample the minority class data points. Most of the available state-of-the-art oversampling techniques generate artificial data points which cannot be comprehensibly understood by the reader, despite the synthetic data points generated being similar to the original minority class data points. We present Topic-based Language Modelling Approach for Text Oversampling (TLMOTE), a novel text oversampling technique for supervised learning from unbalanced datasets. TLMOTE improves upon previous approaches by generating data points which can be intelligibly understood by the reader, can relate to the main topics of the minority class, and introduces more variations to the synthetic data generated.
 
